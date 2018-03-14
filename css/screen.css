@@ -207,6 +207,17 @@ a:hover, a:focus {
 }
 
 /*
+  Componenets: Type
+  ---
+  Special typography classes
+*/
+
+.c-type-meta {
+  font-size: 14px;
+  font-family: "Inter UI", "Helvetica Neue", Helvetica, arial, sans-serif;
+}
+
+/*
     Components: Author
 */
 
